@@ -3,3 +3,29 @@
 <p align="center">
   <img src= "Data Science.gif" >
 </p>
+
+
+# João Pedro Lavor
+<sub>*Data Scientist Student* at Sigmoidal.ia</sub>
+
+I am a student about to graduate in mathematics (UFPE) with an interest in the field of machine learning and data science. I seek to improve my knowledge in applied mathematics.
+
+
+**Background in:** Mathematics, Python, Machine Learning and Applied Math.
+
+**Links:**
+* [LinkedIn]((https://www.linkedin.com/in/joão-pedro-lavor-65162312b/)
+* [Medium](https://www.medium.com)
+
+
+## Projetos:
+Veja os tutoriais publicados do Sigmoidal:
+
+* **Análisando dados do Airbnb New York:** 
+* **** 
+* **** 
+* **** 
+* **** 
+* **** 
+
+---
