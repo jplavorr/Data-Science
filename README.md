@@ -21,7 +21,7 @@ I am a student about to graduate in mathematics (UFPE) with an interest in the f
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Análisando dados do Airbnb New York:** 
+* **Análisando dados do Airbnb New York:** https://bit.ly/2N5vqb0
 * **** 
 * **** 
 * **** 
