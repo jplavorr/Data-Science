@@ -15,7 +15,7 @@ I am a student about to graduate in mathematics (UFPE) with an interest in the f
 
 **Links:**
 * [LinkedIn]((https://www.linkedin.com/in/joão-pedro-lavor-65162312b/)
-* [Medium](https://www.medium.com)
+* [Medium](https://jplavorr.medium.com/)
 
 
 ## Projetos:
