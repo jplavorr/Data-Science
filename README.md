@@ -14,7 +14,7 @@ I am a student about to graduate in mathematics (UFPE) with an interest in the f
 **Background in:** Mathematics, Python, Machine Learning and Applied Math.
 
 **Links:**
-* [LinkedIn]((https://www.linkedin.com/in/joão-pedro-lavor-65162312b/)
+* [LinkedIn](https://www.linkedin.com/in/joão-pedro-lavor-65162312b/)
 * [Medium](https://jplavorr.medium.com/)
 
 
