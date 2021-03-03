@@ -19,7 +19,7 @@ I am a student about to graduate in mathematics (UFPE) with an interest in the f
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+
 
 * **Análisando dados do Airbnb New York:** https://bit.ly/3dByuGH
 * **Análisando os crimes do Rio de Janeiro:** https://bit.ly/3bIg8Ba
