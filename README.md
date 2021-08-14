@@ -25,7 +25,7 @@ I am a student about to graduate in mathematics (UFPE) with an interest in the f
 * **Análisando os crimes do Rio de Janeiro:** https://bit.ly/3bIg8Ba
 * **Panorama do COVID-19:** https://bit.ly/3vpBI6C 
 * **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/330n74F 
-* **** 
+* **Prevendo Evasão de Clientes com Machine Learning:** https://bit.ly/37JTFlK
 * **** 
 
 ---
