@@ -27,5 +27,7 @@ Graduated in Mathematics (UFPE) with an interest in the field of machine learnin
 * **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/330n74F 
 * **Prevendo Evasão de Clientes com Machine Learning:** https://bit.ly/37JTFlK
 * **Avaliação de Risco de Crédito** https://bit.ly/3Gr0kBa
+* **Classificador de Fake News** https://bit.ly/38mlBzq
+
 
 ---
